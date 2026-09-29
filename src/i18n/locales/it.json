@@ -1518,6 +1518,8 @@
   "binDesigner.plateIconAria": "Icona targhetta per {owner}",
   "binDesigner.plateIconAriaValue": "Icona targhetta per {owner}: {icon}",
   "binDesigner.plateIconOwnerCompartment": "lo scomparto {n}",
+  "binDesigner.socketRemovalHole": "Foro di estrazione",
+  "binDesigner.socketRemovalHoleHint": "Piccolo incavo sul bordo anteriore della targhetta, appena sotto il fondo della sede, per sollevarla con una pinzetta.",
   "binDesigner.plateSpanningNote": "Gli scomparti sono troppo stretti per targhette singole, quindi ogni riga riceve una targhetta a tutta larghezza.",
   "binDesigner.plateWidthAria": "Larghezza targhetta per lo scomparto {n}",
   "binDesigner.plateWidthAuto": "Auto ({width})",

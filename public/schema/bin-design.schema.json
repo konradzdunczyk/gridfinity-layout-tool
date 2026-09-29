@@ -1461,6 +1461,10 @@
           },
           "description": "Which socket profile a 'socket' mode tab uses. 'clickIn' snaps the plate down onto a shelf; 'slideChannel' slides it in from the side."
         },
+        "removalHole": {
+          "type": "boolean",
+          "description": "Cut a 2 mm recess centred on the pocket's front edge, two layers below the pocket floor, so tweezers can lift the plate out. Only applies to 'clickIn' sockets."
+        },
         "support": {
           "enum": ["bracket", "solid", "fillet"],
           "description": "Support structure under the tab. 'bracket' is open gussets, 'solid' is a filled triangle, 'fillet' is a curve."

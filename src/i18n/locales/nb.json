@@ -1518,6 +1518,8 @@
   "binDesigner.plateIconAria": "Plateikon for {owner}",
   "binDesigner.plateIconAriaValue": "Plateikon for {owner}: {icon}",
   "binDesigner.plateIconOwnerCompartment": "rom {n}",
+  "binDesigner.socketRemovalHole": "Uttakshull",
+  "binDesigner.socketRemovalHoleHint": "Liten fordypning ved platens forkant, rett under bunnen av sokkelen, så en pinsett kan løfte den ut.",
   "binDesigner.plateSpanningNote": "Rommene er for smale for egne plater, så hver rad får én plate i full bredde.",
   "binDesigner.plateWidthAria": "Platebredde for rom {n}",
   "binDesigner.plateWidthAuto": "Auto ({width})",

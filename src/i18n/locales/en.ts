@@ -1872,6 +1872,9 @@ const en: Record<string, string> = {
   'binDesigner.plateWidthAuto': 'Auto ({width})',
   'binDesigner.plateWidthAria': 'Plate width for compartment {n}',
   'binDesigner.plateWidthNoFit': 'No standard plate fits',
+  'binDesigner.socketRemovalHole': 'Removal hole',
+  'binDesigner.socketRemovalHoleHint':
+    'A small recess at the plate’s front edge, just below the pocket floor, so tweezers can lift the plate out.',
   'binDesigner.plateSpanningNote':
     'Compartments are too narrow for individual plates, so each row gets one full-width plate.',
   'binDesigner.socketStyle': 'Socket style',

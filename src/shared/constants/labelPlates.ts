@@ -243,6 +243,12 @@ export const LABEL_SOCKET_SLIDE_SHELF_THICKNESS_MM =
 /** Minimum solid wall kept around the pocket on each side (mm). */
 export const LABEL_SOCKET_WALL_MM = 1;
 
+/** Diameter of the optional tweezer/pin hole that lifts a plate out of its socket. */
+export const LABEL_SOCKET_REMOVAL_HOLE_DIAMETER_MM = 2;
+
+/** How far the removal hole sinks below the click-in pocket floor: two 0.2mm layers. */
+export const LABEL_SOCKET_REMOVAL_HOLE_SINK_MM = 0.4;
+
 /**
  * Minimum label-tab depth able to host a socket: front/back walls + pocket
  * height + clearance headroom. (1 + 11.3 + 1 rounds up to 14 with margin

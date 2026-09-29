@@ -1518,6 +1518,8 @@
   "binDesigner.plateIconAria": "{owner}のプレートアイコン",
   "binDesigner.plateIconAriaValue": "{owner}のプレートアイコン: {icon}",
   "binDesigner.plateIconOwnerCompartment": "仕切り{n}",
+  "binDesigner.socketRemovalHole": "取り外し穴",
+  "binDesigner.socketRemovalHoleHint": "プレート前端、ポケット底面のすぐ下にある小さな凹み。ピンセットで持ち上げられます。",
   "binDesigner.plateSpanningNote": "コンパートメントが狭すぎて個別のプレートが入らないため、各行に全幅のプレートを1枚ずつ使用します。",
   "binDesigner.plateWidthAria": "コンパートメント{n}のプレート幅",
   "binDesigner.plateWidthAuto": "自動（{width}）",

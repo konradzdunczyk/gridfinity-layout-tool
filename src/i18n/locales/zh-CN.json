@@ -1518,6 +1518,8 @@
   "binDesigner.plateIconAria": "{owner}的标签板图标",
   "binDesigner.plateIconAriaValue": "{owner}的标签板图标：{icon}",
   "binDesigner.plateIconOwnerCompartment": "隔间 {n}",
+  "binDesigner.socketRemovalHole": "取出孔",
+  "binDesigner.socketRemovalHoleHint": "标签板前缘、卡槽底面下方的小凹槽，方便用镊子撬起。",
   "binDesigner.plateSpanningNote": "隔间太窄，放不下单独的标签板，因此每行使用一块整宽标签板。",
   "binDesigner.plateWidthAria": "隔间 {n} 的标签板宽度",
   "binDesigner.plateWidthAuto": "自动（{width}）",

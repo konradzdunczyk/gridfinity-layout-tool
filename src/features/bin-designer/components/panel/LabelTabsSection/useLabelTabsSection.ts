@@ -157,6 +157,13 @@ export function useLabelTabsSection() {
     [updateLabel]
   );
 
+  const toggleRemovalHole = useCallback(
+    (removalHole: boolean) => {
+      updateLabel({ removalHole });
+    },
+    [updateLabel]
+  );
+
   const toggleLabelLip = useCallback(
     (lip: boolean) => {
       updateLabel({ lip });
@@ -817,6 +824,7 @@ export function useLabelTabsSection() {
     handlers: {
       toggleLabelTabs,
       toggleSpan,
+      toggleRemovalHole,
       toggleLabelLip,
       setLabelLipHeight,
       autoFixLip,

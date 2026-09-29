@@ -1518,6 +1518,8 @@
   "binDesigner.plateIconAria": "Ikona płytki dla {owner}",
   "binDesigner.plateIconAriaValue": "Ikona płytki dla {owner}: {icon}",
   "binDesigner.plateIconOwnerCompartment": "przegrody {n}",
+  "binDesigner.socketRemovalHole": "Otwór do wyjmowania",
+  "binDesigner.socketRemovalHoleHint": "Małe zagłębienie przy przedniej krawędzi płytki, tuż poniżej dna gniazda, by podważyć ją pęsetą.",
   "binDesigner.plateSpanningNote": "Przegrody są zbyt wąskie na indywidualne płytki, więc każdy rząd otrzymuje jedną płytkę na całą szerokość.",
   "binDesigner.plateWidthAria": "Szerokość płytki dla przegrody {n}",
   "binDesigner.plateWidthAuto": "Auto ({width})",

@@ -46,6 +46,12 @@ export interface LabelTabConfig {
    * plates.
    */
   readonly socketStyle?: LabelSocketStyle;
+  /**
+   * Click-in sockets only: a 2mm recess centred on the pocket's free-side
+   * edge, two layers below the pocket floor, so tweezers can lift the plate out.
+   * Absent/false = no recess.
+   */
+  readonly removalHole?: boolean;
   /** Support structure: 'bracket' = open gussets, 'solid' = filled triangle */
   readonly support: LabelTabSupport;
   /** Depth of tab from inner back wall (horizontal inward), in mm */
