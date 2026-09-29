@@ -1518,6 +1518,8 @@
   "binDesigner.plateIconAria": "Значок пластини для {owner}",
   "binDesigner.plateIconAriaValue": "Значок пластини для {owner}: {icon}",
   "binDesigner.plateIconOwnerCompartment": "відділення {n}",
+  "binDesigner.socketRemovalHole": "Отвір для виймання",
+  "binDesigner.socketRemovalHoleHint": "Невелике заглиблення біля переднього краю пластини, трохи нижче дна гнізда, щоб підняти її пінцетом.",
   "binDesigner.plateSpanningNote": "Відсіки завузькі для окремих пластин, тому кожен ряд отримує одну пластину на всю ширину.",
   "binDesigner.plateWidthAria": "Ширина пластини для відсіку {n}",
   "binDesigner.plateWidthAuto": "Авто ({width})",

@@ -1580,6 +1580,8 @@
   "binDesigner.plateWidthAuto": "ავტომატური ({width})",
   "binDesigner.plateWidthAria": "ფირფიტის სიგანე განყოფილებისთვის {n}",
   "binDesigner.plateWidthNoFit": "არცერთი სტანდარტული ფირფიტა არ ეტევა",
+  "binDesigner.socketRemovalHole": "ამოსაღები ხვრელი",
+  "binDesigner.socketRemovalHoleHint": "პატარა ჩაღრმავება ფირფიტის წინა კიდესთან, ბუდის ძირის ქვემოთ, რომ პინცეტით აწიოთ.",
   "binDesigner.plateSpanningNote": "განყოფილებები ცალკეული ფირფიტებისთვის მეტისმეტად ვიწროა, ამიტომ თითოეული რიგი იღებს ერთ ფირფიტას მთელ სიგანეზე.",
   "binDesigner.socketStyle": "ბუდის სტილი",
   "binDesigner.socketStyle.clickIn": "ჩასაკლიკი",

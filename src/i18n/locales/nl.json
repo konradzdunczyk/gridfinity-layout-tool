@@ -1518,6 +1518,8 @@
   "binDesigner.plateIconAria": "Plaatjespictogram voor {owner}",
   "binDesigner.plateIconAriaValue": "Plaatjespictogram voor {owner}: {icon}",
   "binDesigner.plateIconOwnerCompartment": "vak {n}",
+  "binDesigner.socketRemovalHole": "Uitneemgat",
+  "binDesigner.socketRemovalHoleHint": "Kleine uitsparing bij de voorrand van het plaatje, net onder de bodem van de houder, om het met een pincet op te tillen.",
   "binDesigner.plateSpanningNote": "De vakken zijn te smal voor losse plaatjes, dus elke rij krijgt één plaatje over de volle breedte.",
   "binDesigner.plateWidthAria": "Plaatbreedte voor vak {n}",
   "binDesigner.plateWidthAuto": "Auto ({width})",

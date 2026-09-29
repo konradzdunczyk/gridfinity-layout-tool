@@ -371,6 +371,9 @@ export function validateLabel(label: unknown): string | null {
       return 'label.edges must be "back", "front", or "both"';
     }
     // Optional field; absent = per-compartment tabs (legacy).
+    if (label.removalHole !== undefined && !isBoolean(label.removalHole)) {
+      return 'label.removalHole must be boolean';
+    }
     if (label.span !== undefined && !isBoolean(label.span)) {
       return 'label.span must be boolean';
     }

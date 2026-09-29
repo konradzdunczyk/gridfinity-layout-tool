@@ -554,6 +554,7 @@ function buildTabsAtRow(
           tabHeight,
           alignment,
           depthSign,
+          removalHole: params.label.removalHole,
         });
       }
     } else {

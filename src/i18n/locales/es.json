@@ -1518,6 +1518,8 @@
   "binDesigner.plateIconAria": "Icono de placa para {owner}",
   "binDesigner.plateIconAriaValue": "Icono de placa para {owner}: {icon}",
   "binDesigner.plateIconOwnerCompartment": "el compartimento {n}",
+  "binDesigner.socketRemovalHole": "Orificio de extracción",
+  "binDesigner.socketRemovalHoleHint": "Pequeño hueco en el borde frontal de la placa, justo bajo el fondo del alojamiento, para levantarla con unas pinzas.",
   "binDesigner.plateSpanningNote": "Los compartimentos son demasiado estrechos para placas individuales, así que cada fila lleva una placa de ancho completo.",
   "binDesigner.plateWidthAria": "Ancho de placa del compartimento {n}",
   "binDesigner.plateWidthAuto": "Auto ({width})",
